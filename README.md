@@ -26,9 +26,9 @@ import (
 )
 
 func main() {
-	z01.PrintRune(piscine.FirstRune("Hello!"))
-	z01.PrintRune(piscine.FirstRune("Salut!"))
-	z01.PrintRune(piscine.FirstRune("Ola!"))
+	z01.PrintRune(FirstRune("Hello!"))
+	z01.PrintRune(FirstRune("Salut!"))
+	z01.PrintRune(FirstRune("Ola!"))
 	z01.PrintRune('\n')
 }
 ```
